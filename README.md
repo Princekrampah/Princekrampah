@@ -6,6 +6,7 @@
 </div>
 
 
+## Frameworks and Libraries
 
 <div style="margin: 40px">  
   <img align="left" width="23%" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
