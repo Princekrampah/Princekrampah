@@ -15,6 +15,15 @@
   <img align="left" width="23%" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
 </div>
 
+## Languages I use
+
+<div style="margin: 40px">  
+  <img align="left" width="23%" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img align="left" width="23%" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img align="left" width="23%" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
+  <img align="left" width="23%" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
+</div>
+
 
 <!--
 **Princekrampah/Princekrampah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
